@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="10487" started-at="2018-01-17T14:21:10Z" finished-at="2018-01-17T14:21:21Z">
+    <groups>
+    </groups>
+    <test name="mgb_selenium_n_testng" duration-ms="10487" started-at="2018-01-17T14:21:10Z" finished-at="2018-01-17T14:21:21Z">
+      <class name="TestSelenium">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:TestSelenium@cd43c2]" name="startBrowser" is-config="true" duration-ms="3845" started-at="2018-01-17T14:21:10Z" finished-at="2018-01-17T14:21:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="verifyHomepageTitle()[pri:0, instance:TestSelenium@cd43c2]" name="verifyHomepageTitle" is-config="true" duration-ms="15" started-at="2018-01-17T14:21:14Z" finished-at="2018-01-17T14:21:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method status="PASS" signature="register()[pri:0, instance:TestSelenium@cd43c2]" name="register" duration-ms="1845" started-at="2018-01-17T14:21:14Z" finished-at="2018-01-17T14:21:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="goBackToHomepage()[pri:0, instance:TestSelenium@cd43c2]" name="goBackToHomepage" is-config="true" duration-ms="1497" started-at="2018-01-17T14:21:16Z" finished-at="2018-01-17T14:21:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomepage -->
+        <test-method status="PASS" signature="verifyHomepageTitle()[pri:0, instance:TestSelenium@cd43c2]" name="verifyHomepageTitle" is-config="true" duration-ms="13" started-at="2018-01-17T14:21:17Z" finished-at="2018-01-17T14:21:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method status="PASS" signature="support()[pri:0, instance:TestSelenium@cd43c2]" name="support" duration-ms="1748" started-at="2018-01-17T14:21:17Z" finished-at="2018-01-17T14:21:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- support -->
+        <test-method status="PASS" signature="goBackToHomepage()[pri:0, instance:TestSelenium@cd43c2]" name="goBackToHomepage" is-config="true" duration-ms="1494" started-at="2018-01-17T14:21:19Z" finished-at="2018-01-17T14:21:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBackToHomepage -->
+        <test-method status="PASS" signature="endSession()[pri:0, instance:TestSelenium@cd43c2]" name="endSession" is-config="true" duration-ms="17" started-at="2018-01-17T14:21:21Z" finished-at="2018-01-17T14:21:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endSession -->
+      </class> <!-- TestSelenium -->
+    </test> <!-- mgb_selenium_n_testng -->
+  </suite> <!-- Default Suite -->
+</testng-results>

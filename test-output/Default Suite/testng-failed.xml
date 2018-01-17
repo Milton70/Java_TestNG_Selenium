@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default Suite]">
+  <test name="mgb_selenium_n_testng(failed)">
+    <classes>
+      <class name="TestSelenium">
+        <methods>
+          <include name="startBrowser"/>
+          <include name="verifyHomePage"/>
+        </methods>
+      </class> <!-- TestSelenium -->
+    </classes>
+  </test> <!-- mgb_selenium_n_testng(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->
